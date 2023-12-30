@@ -1,6 +1,6 @@
 ## Kode
 
-This is jsut modified NvChad
+This is just modified NvChad
 
 ### Install
 
